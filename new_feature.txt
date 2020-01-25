@@ -1,0 +1,1 @@
+print('Based on those findings, we propose a new hypothesis using the analogy of a chessboard that integrates both ecological and evolutionary processes in a single theoretical framework to explain the arrangement of life in the superficial (epipelagic) part of the ocea!')
